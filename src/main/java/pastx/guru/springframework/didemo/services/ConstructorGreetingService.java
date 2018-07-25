@@ -7,6 +7,6 @@ public class ConstructorGreetingService implements GreetingService {
 
     @Override
     public String sayGreeting() {
-        return "Helloworld from constructor greeting service";
+        return "Hello world from constructor greeting service";
     }
 }
